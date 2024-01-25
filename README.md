@@ -1,5 +1,5 @@
 <h1> Apple eCommerce Website </h1>
-Welcome to the Apple eCommerce website repository! This web application provides a visually stunning and interactive platform for showcasing Apple's latest products, including the iPhone 15, MacBook Air, Watch, and AirPods.
+Welcome to my Apple eCommerce website repository! This web application provides a visually stunning and interactive platform for showcasing Apple's latest products, including the iPhone 15, MacBook Air, Watch, and AirPods.
 <br/><br/>
 
 ![Apple eCommerce Screenshot](https://github.com/cdsapp01110/appleecommerce/assets/145883353/1477527b-6e87-4b9a-94dc-398f579ab46a)
